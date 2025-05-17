@@ -1,1 +1,1 @@
-# Potato-Disease-Classification-Full-Stack-
+# Full_Stack_Project_Farmer_for_Crop_Disease
